@@ -26,28 +26,37 @@ Welcome to the Color Guessing Game! The goal of this game is to guess the correc
    git clone --https://github.com/YogiSunil/Color-Challenge.git
 
 2. Navigate into the project folder:
+
+   ```bash
    cd color-guessing-game
 
 3. Install the required dependencies:
+   ```bash
     npm install
+
 4. Start the development server:
+    ```bash
     npm start
 5. Open your browser and visit:
+    
     http://localhost:3000
 
 
 
 ## Reflection 🧠
-Prompts I Asked AI:
+
+1. Prompts I Asked AI:
+
 How do I generate random hex colors in JavaScript?
 
 How can I highlight the correct answer and prevent further guesses after the user selects a color in a React app?
 
 Can you help me add a hover effect and pointer cursor to color swatches in React?
 
-How AI Helped:
+2. How AI Helped:
 AI helped me with generating random hex color values and provided clear guidance on how to implement the correct/incorrect message logic and interaction handling in React. It also assisted in creating a better user experience by adding hover effects and disabling further guesses after a selection is made.
 
-One Thing I Figured Out on My Own:
+3. One Thing I Figured Out on My Own:
+
 I figured out how to implement a short countdown before showing the color swatches. This was accomplished by using setTimeout to introduce a delay, which gives the player a brief moment before they start interacting with the swatches.
 
