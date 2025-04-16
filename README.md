@@ -23,7 +23,7 @@ Welcome to the Color Guessing Game! The goal of this game is to guess the correc
 1. Clone this repository:
 
    ```bash
-   git clone --
+   git clone --https://github.com/YogiSunil/Color-Challenge.git
 
 2. Navigate into the project folder:
    cd color-guessing-game
@@ -35,7 +35,9 @@ Welcome to the Color Guessing Game! The goal of this game is to guess the correc
 5. Open your browser and visit:
     http://localhost:3000
 
-Reflection 🧠
+
+
+## Reflection 🧠
 Prompts I Asked AI:
 How do I generate random hex colors in JavaScript?
 
